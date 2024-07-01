@@ -2,4 +2,4 @@
 
 Name: Hockeys Club
 
-Live Link: ( https://rhmshak.github.io/Assignment-3/ )
+Live Link: ( https://rhmshak.github.io/3.Hockeys_Club/ )
